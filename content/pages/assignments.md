@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes 4 homework assignments/problem sets for this course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
